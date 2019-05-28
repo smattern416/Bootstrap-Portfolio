@@ -6,3 +6,6 @@ form {
     background-color: lightseagreen;
     margin-top: 30px;
 }
+#exampleMessage {
+    height: 200px;
+}
