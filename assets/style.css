@@ -31,3 +31,14 @@ footer {
 .content {
     margin-top: 30px;
 }
+.main-section {
+  width: 100%;
+  padding: 30px;
+  margin: 0 0 40px;
+  background-color: cadetblue;
+}
+.auth-image {
+    width: 200px;
+    height: auto;
+    margin-top: 10px;
+    margin-right: 25px;
